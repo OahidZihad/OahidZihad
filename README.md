@@ -31,7 +31,7 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OahidZihad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oahid-zihad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oahid.zihad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oahid_zihad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oahidzihad1)   -->
 
-<div align="center">![Profile views](https://gpvc.arturio.dev/OahidZihad)</div> 
+<div align="center"> ![Profile views](https://gpvc.arturio.dev/OahidZihad) </div> 
 
 <p align="center"> <a href="https://twitter.com/oahidzihad1" target="blank"><img src="https://img.shields.io/twitter/follow/oahidzihad1?logo=twitter&style=for-the-badge" alt="oahidzihad1" /></a> </p>
 
