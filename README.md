@@ -23,7 +23,7 @@ Skills: REACT / HTML / CSS / BOOTSTRAP / MUI / NODE.JS / MONGO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/OahidZihad&theme=tokyonight)  
+![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight)  
 
