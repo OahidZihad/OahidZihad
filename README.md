@@ -32,7 +32,7 @@ Skills: REACT / HTML / CSS / BOOTSTRAP / MUI / NODE.JS / MONGO
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OahidZihad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oahid-zihad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oahid.zihad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/oahid_zihad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oahidzihad1)   -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/OahidZihad)  -->
+![Profile views](https://gpvc.arturio.dev/OahidZihad) 
 
 <p align="left"> <a href="https://twitter.com/oahidzihad1" target="blank"><img src="https://img.shields.io/twitter/follow/oahidzihad1?logo=twitter&style=for-the-badge" alt="oahidzihad1" /></a> </p>
 
@@ -40,7 +40,8 @@ Skills: REACT / HTML / CSS / BOOTSTRAP / MUI / NODE.JS / MONGO
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  
 
