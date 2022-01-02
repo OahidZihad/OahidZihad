@@ -1,5 +1,6 @@
 ![zihad_cover](https://user-images.githubusercontent.com/32256716/147884792-ecb4ed1e-d2be-461b-a463-543f3d1e6cfd.JPG)
-# Hi, I'm Oahid Zihad ![hi](https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952n639fw4431dnjnukl2tiriaxk2gja2y61h6o0srt&rid=giphy.gif&ct=s)
+# Hi, I'm Oahid Zihad 
+<!-- ![hi](https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952n639fw4431dnjnukl2tiriaxk2gja2y61h6o0srt&rid=giphy.gif&ct=s) -->
 <!-- ####  -->
 <p>🥇 Frontend Web Developer</p>
 <p>🥈 React Developer</p>
@@ -19,7 +20,7 @@ Skills: REACT / HTML / CSS / BOOTSTRAP / MUI / NODE.JS / MONGO
 - 🔭 I’m currently working on Care-Box Ltd. 
 - 🌱 I’m currently learning node.js and mongoDB 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: linkedin.com/in/oahid-zihad 
+<!-- - 📫 How to reach me: linkedin.com/in/oahid-zihad  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +38,7 @@ Skills: REACT / HTML / CSS / BOOTSTRAP / MUI / NODE.JS / MONGO
 
 <!-- <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
