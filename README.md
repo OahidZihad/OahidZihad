@@ -3,9 +3,9 @@
 <!-- ![hi](https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952n639fw4431dnjnukl2tiriaxk2gja2y61h6o0srt&rid=giphy.gif&ct=s) -->
 <!-- ####  -->
 <h1 align="center">Hi, I'm Oahid Zihad</h1>
-<p align="center">🥇 Frontend Developer</p>
-<p align="center">🥈 React.js Developer</p>
-<p align="center">🥉 Like to share knowledge</p>
+<p align="center">🥇 Frontend Developer <br/> 🥈 React.js Developer <br/> 🥉 Like to share knowledge</p>
+<!-- <p align="center">🥈 React.js Developer</p>
+<p align="center">🥉 Like to share knowledge</p> -->
 
 <!-- ####  -->
 <!-- ####  -->
