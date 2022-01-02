@@ -48,6 +48,10 @@
 
 <div align="center"><img src="https://metrics.lecoq.io/OahidZihad" alt="metrics" /> </div> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OahidZihad&theme=radical)  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight" alt="stats" /> </div> 
+
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OahidZihad&theme=radical)   -->
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OahidZihad&theme=radical" /> </div> 
