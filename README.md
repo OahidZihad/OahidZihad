@@ -42,6 +42,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia" alt="dd" /></a> </div>
+
 ![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight)  
