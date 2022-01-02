@@ -44,7 +44,9 @@
 
 <div align="right"><img src="https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia" alt="trophy" /> </div> 
 
-![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  -->
+
+<div align="right"><img src="https://metrics.lecoq.io/OahidZihad" alt="metrics" /> </div> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OahidZihad&show_icons=true&count_private=true&theme=tokyonight)  
 
