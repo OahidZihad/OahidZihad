@@ -42,7 +42,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OahidZihad&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<p align="right"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia" alt="dd" /></a> </p> 
+<div align="right"><img src="https://github-profile-trophy.vercel.app/?username=OahidZihad&title=Commits,MultiLanguage,Issues&theme=algolia" alt="trophy" /> </div> 
 
 ![GitHub metrics](https://metrics.lecoq.io/OahidZihad)  
 
