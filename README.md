@@ -1,10 +1,11 @@
 ![zihad_cover](https://user-images.githubusercontent.com/32256716/147884792-ecb4ed1e-d2be-461b-a463-543f3d1e6cfd.JPG)
-# Hi, I'm Oahid Zihad 
+<!-- # Hi, I'm Oahid Zihad  -->
 <!-- ![hi](https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952n639fw4431dnjnukl2tiriaxk2gja2y61h6o0srt&rid=giphy.gif&ct=s) -->
 <!-- ####  -->
-<p>🥇 Frontend Web Developer</p>
-<p>🥈 React Developer</p>
-<p>🥉 Like to share my knowledge</p>
+<h3 align="center">Hi, I'm Oahid Zihad</h3>
+<p align="center">🥇 Frontend Web Developer</p>
+<p align="center">🥈 React Developer</p>
+<p align="center">🥉 Like to share my knowledge</p>
 
 <!-- ####  -->
 <!-- ####  -->
